@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Cześć, tu Zbyszek! 👋</h1>
 
-<!--
-**SzybkiZbyszek1/SzybkiZbyszek1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TWOJ_NICK_GITHUB&color=blue&style=flat-square" alt="Statystyki wyświetleń" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  🚀 Uczeń technikum informatycznego ze zacięciem do programowania, tworzenia stron i automatyzacji.<br>
+  💡 Interesuję się sieciami, tworzeniem aplikacji webowych oraz skryptowaniem.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologie i narzędzia
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cs,powershell,git,github,linux,windows,vscode,cloudflare" alt="Tech Stack" />
+</p>
+
+---
+
+### 📂 Wybrane projekty
+
+* **[Nazwa Projektu 1](link-do-repozytorium)** – Krótki opis tego, co robi projekt, jakich technologii użyto (np. aplikacja P2P, bot Discord, skrypt w Pythonie).
+* **[Nazwa Projektu 2](link-do-repozytorium)** – Kolejny ciekawy projekt, którym chcesz się pochwalić.
+
+---
+
+### 📊 Statystyki GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TWOJ_NICK_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJ_NICK_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Jak mnie znaleźć?
+
+* **GitHub:** [Twoje konto](https://github.com/TWOJ_NICK_GITHUB)
+* **Discord:** `Twój nick / serwer`
