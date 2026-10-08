@@ -14,7 +14,7 @@
 ### 🛠️ Technologie i narzędzia
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,cs,powershell,git,github,linux,windows,vscode,cloudflare" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,linux,windows,vscode" alt="Tech Stack" />
 </p>
 
 ---
