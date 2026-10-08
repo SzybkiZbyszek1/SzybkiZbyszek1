@@ -1,7 +1,5 @@
-<h1 align="center">Hi there! I'm Zbyszek 👋</h1>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SzybkiZbyszek1&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=130&section=header&text=Hi%20there!%20I'm%20Zbyszek&fontSize=35&fontColor=fff&animation=fadeIn&fontY=38" width="100%" />
 </p>
 
 <p align="center">
@@ -22,11 +20,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SzybkiZbyszek1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SzybkiZbyszek1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SzybkiZbyszek1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SzybkiZbyszek1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SzybkiZbyszek1&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </p>
 
 ---
