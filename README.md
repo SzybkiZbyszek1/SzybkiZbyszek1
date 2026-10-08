@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SzybkiZbyszek1&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SzybkiZbyszek1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
